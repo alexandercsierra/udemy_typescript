@@ -4,7 +4,7 @@ A Udemy course by Stephen Grider
 
 | Section No. | Status |
 | :---------: | :----: |
-|      1      |   ✖    |
+|      1      |   ✅   |
 |      2      |   ✖    |
 |      3      |   ✖    |
 |      4      |   ✖    |
