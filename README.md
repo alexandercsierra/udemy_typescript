@@ -11,7 +11,7 @@ A Udemy course by Stephen Grider
 |      5      |   ✅   |
 |      6      |   ✅   |
 |      7      |   ✅   |
-|      8      |   ✖    |
+|      8      |   ✅   |
 |      9      |   ✖    |
 |     10      |   ✖    |
 |     11      |   ✖    |

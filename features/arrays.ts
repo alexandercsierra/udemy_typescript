@@ -27,3 +27,5 @@ carMakers.map((car: string): string => {
 
 //Flexible types
 const importantDates: (Date | string)[] = [new Date(), '2030-10-10']
+
+export {}
