@@ -7,7 +7,7 @@ A Udemy course by Stephen Grider
 |      1      |   ✅   |
 |      2      |   ✅   |
 |      3      |   ✅   |
-|      4      |   ✖    |
+|      4      |   ✅   |
 |      5      |   ✖    |
 |      6      |   ✖    |
 |      7      |   ✖    |
